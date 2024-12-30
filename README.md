@@ -88,7 +88,7 @@ Files: ❌
 Credit Cards: ❌
 ```
 
-## Stealerium (user_info.txt)
+## Stealerium (Info.txt)
 
 ```
 [IP]
