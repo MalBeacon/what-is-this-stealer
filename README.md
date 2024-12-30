@@ -30,7 +30,6 @@ System Summary:
  - GPU:
           -Intel(R) HD Graphics 5500
 ```
-## 
 
 ## Banshee (system_information.txt)
 
@@ -46,4 +45,74 @@ Time Zone: UTC-07:00 America/Adak
 CPU: Dual-Core Intel Core i5, 1.8 GHz
 RAM: 8 GB
 IP: 127.0.0.1
+```
+
+## LucaStealer (user_info.txt)
+
+```
+- IP Info -
+
+IP: 127.0.0.1
+Country: Germany
+City: Berlin
+Postal: 10178
+ISP: Cogent Communications - A174
+Timezone: +01:00
+
+- PC Info -
+
+OS: Microsoft Windows 10 Pro
+CPU: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+GPU: 
+    - Microsoft Basic Display Adapter (1280, 720)
+HWID: Unknown
+Current Language: English (United States)
+FileLocation: C:\Users\admin\Desktop\Cryptor.exe
+Is Elevated: false
+
+- Other Info -
+
+Antivirus: 
+    - Windows Defender
+
+- Log Info -
+
+Passwords: ✅ 1
+
+Cookies: ✅ 50
+
+Wallets: ❌
+
+Files: ❌
+
+Credit Cards: ❌
+```
+
+## Stealerium (user_info.txt)
+
+```
+[IP]
+External IP: 119.98.203.64
+Internal IP: 10.0.2.15
+Gateway IP: 10.0.2.2
+
+[Machine]
+Username: John
+Compname: DESKTOP-5ABF2TC
+System: Microsoft Windows 10 Pro (64 Bit)
+CPU: Intel(R) Xeon(R) CPU @ 3.20GHz
+GPU: Microsoft Basic Display Adapter
+RAM: 4092MB
+DATE: 2024-12-25 7:27:19 AM
+SCREEN: 1920x1080
+BATTERY: NoSystemBattery (100%)
+WEBCAMS COUNT: 0
+
+[Virtualization]
+VirtualMachine: False
+SandBoxie: False
+Emulator: False
+Processes: False
+Hosting: False
+Antivirus: Windows Defender
 ```
