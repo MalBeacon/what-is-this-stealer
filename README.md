@@ -1,9 +1,9 @@
 # What is this Stealer
-**A repository of credential stealer formats for the system information (e.g information.txt, system_info.txt etc...)**
+**A repository of credential stealer formats for system information (e.g information.txt, system_info.txt etc...)**
 
 Your [contributions](contributing.md) are always welcome !
 
-## StealC
+## StealC (system_info.txt)
 
 ```
 Network Info:
@@ -29,4 +29,21 @@ System Summary:
  - Display Resolution: 1600x900
  - GPU:
           -Intel(R) HD Graphics 5500
+```
+## 
+
+## Banshee (system_information.txt)
+
+```
+HWID: C9D18A2E-EDA4-5A7A-AB7E-XDNCCLAU35VS
+Log Date: 03 September 2024 00:17:30
+Build Name: bzPg7NGR1bFjBDl3Sjz9c1C03C2I89
+Country Code: US
+User Name: John Smith (johnsmith)
+Computer Name: John’s MacBook Air (2)
+Operation System: macOS 12.6.6 (21G646)
+Time Zone: UTC-07:00 America/Adak
+CPU: Dual-Core Intel Core i5, 1.8 GHz
+RAM: 8 GB
+IP: 127.0.0.1
 ```
