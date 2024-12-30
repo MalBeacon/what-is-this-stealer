@@ -116,3 +116,34 @@ Processes: False
 Hosting: False
 Antivirus: Windows Defender
 ```
+
+## DarkCrystal RAT (Information \[US, North Charleston].txt)
+
+```
+PC Name: DESKTOP-5ABF2TC
+User Name: John
+Windows: Windows Server 2022 Datacenter 64 Bit
+CPU Name: Unknown (Unknown)
+CPU Cores: Unknown (Unknown)
+GPU Name: Unknown (Unknown)
+GPU Mode: Unknown
+Motherboard: Unknown Unknown (Unknown)
+BIOS: Unknown (Unknown)
+Antivirus: Unknown
+Firewall: Unknown
+RAM: Unknown
+LANIP: Unknown
+
+.NET Framework Version: 4.8+
+Path: C:\Program Files\WinRAR\System.exe
+
+IP: 127.0.0.1
+City: South Carolina / North Charleston
+Country: US / United States
+Location: 32.8608 / -79.9746
+
+Monitors: 
+Unknown
+
+Save Time: 29.12.2024 23:51
+```
