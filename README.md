@@ -402,3 +402,44 @@ Network Card(s):           3 NIC(s) Installed.
                                  [02]: fe80::4dc0:5438:c35d:200e
 Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
 ```
+
+## Phemedrone (Information.txt)
+
+```
+    ----- Geolocation Data -----
+
+IP:                      127.0.0.1
+Country:                 Russia (RU)
+City:                    
+Postal:                  56694
+MAC:                     52:54:00:E8:91:2E
+
+    ----- Hardware Info -----
+
+Username:                Administrator\ZTLRFZYKCOID 
+Windows name:            Windows Server 2016 Standard x64
+Hardware ID:             fce12345dbb464f8e31fb2bb1234f2c8
+Screen Resolution:       1920x1080
+GPU:                     Microsoft Basic Display Adapter
+CPU:                     QEMU Virtual CPU version 2.5+
+RAM:                     4 GB
+
+    ----- Report Contents -----
+
+Passwords:               0
+Cookies:                 57
+Credit Cards:            0
+AutoFills:               0
+Extensions:              0
+Wallets:                 0
+Files:                   0
+
+
+
+
+    ----- Miscellaneous -----
+
+Antivirus products:      
+File Location:           C:\Users\Administrator\Desktop\Ruvyjam.exe
+Clipboard text:
+```
