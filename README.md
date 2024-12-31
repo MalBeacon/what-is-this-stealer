@@ -321,3 +321,23 @@ Name: Total of RAM, 16211.79 MB or 16999297024 bytes
 Anti-Viruses: 
 Windows Defender
 ```
+
+## Ailurophile (info.txt)
+
+```
+IP: [redacted]
+Country: [redacted]
+Hostname: [redacted]
+PC Type: Microsoft Windows [redacted]
+Architecture: amd64
+File Path: C:\Users\[redacted]\AppData\Local\Temp
+Main Path: C:\Users\[redacted]\AppData\Local\Ailurophile
+Allowed Extensions: [rdp txt doc docx pdf csv xls xlsx keys ldb log]
+Folders to Search: [Documents Desktop Downloads]
+Files: [bank info casino prv privé prive telegram identifiant identifiants personnel trading bitcoin sauvegarde funds recup note]
+MAC Address: [redacted]
+Screen Resolution: [redacted]
+Browsers:
+Chrome Default - version: [version string]
+Edge Default - version: [version string]
+```
