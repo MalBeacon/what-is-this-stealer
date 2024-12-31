@@ -341,3 +341,64 @@ Browsers:
 Chrome Default - version: [version string]
 Edge Default - version: [version string]
 ```
+
+Blank Grabber (System Info.txt)
+
+```
+Host Name:                 DESKTOP-1PQPCEA
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          admin
+Registered Organization:   
+Product ID:                00330-80000-00000-AA016
+Original Install Date:     5/19/2024, 6:34:35 AM
+System Boot Time:          5/19/2024, 8:19:06 AM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware20,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 113 Stepping 0 AuthenticAMD ~3500 Mhz
+                           [02]: AMD64 Family 23 Model 113 Stepping 0 AuthenticAMD ~3500 Mhz
+BIOS Version:              VMware, Inc. VMW201.00V.21805430.B64.2305221830, 5/22/2023
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     8,191 MB
+Available Physical Memory: 5,096 MB
+Virtual Memory: Max Size:  10,111 MB
+Virtual Memory: Available: 7,138 MB
+Virtual Memory: In Use:    2,973 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-1PQPCEA
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5031988
+                           [02]: KB5015684
+                           [03]: KB5033372
+                           [04]: KB5014032
+                           [05]: KB5032907
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.229.254
+                                 IP address(es)
+                                 [01]: 192.168.229.128
+                                 [02]: fe80::8da6:ef32:1a8e:643d
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [03]: Wintun Userspace Tunnel
+                                 Connection Name: Mullvad
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 10.5.0.18
+                                 [02]: fe80::4dc0:5438:c35d:200e
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+```
