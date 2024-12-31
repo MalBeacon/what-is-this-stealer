@@ -292,3 +292,32 @@ Name: Intel(R) HD Graphics 520, 1073741824 bytes
 Anti-Viruses: 
 Windows Defender
 ```
+
+## ArechClientV2 (UserInformation.txt)
+
+```
+IP: 127.0.0.1
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+UserName: John
+Country: GE
+HWID: 12F6A3D3C12FE832CE805EB15C38A31A
+Current Language: Russian (Russia)
+ScreenSize: {Width = 1536,Height = 864}TimeZone: (UTC+04:00) Тбилиси
+Operation System: Windows 10 Enterprise x64
+Process Elevation: True
+
+Available KeyboardLayouts: 
+Russian (Russia)
+English (United States)
+
+
+Hardwares: 
+Name: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, 4 Cores
+Name: Intel(R) HD Graphics 530, 1073741824 bytes
+Name: NVIDIA GeForce GTX 960M, 4293918720 bytes
+Name: Total of RAM, 16211.79 MB or 16999297024 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+```
