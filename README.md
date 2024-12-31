@@ -334,7 +334,7 @@ File Path: C:\Users\[redacted]\AppData\Local\Temp
 Main Path: C:\Users\[redacted]\AppData\Local\Ailurophile
 Allowed Extensions: [rdp txt doc docx pdf csv xls xlsx keys ldb log]
 Folders to Search: [Documents Desktop Downloads]
-Files: [bank info casino prv privé prive telegram identifiant identifiants personnel trading bitcoin sauvegarde funds recup note]
+Files: [bank info casino prv privé prive telegram personnel trading bitcoin sauvegarde funds recup note]
 MAC Address: [redacted]
 Screen Resolution: [redacted]
 Browsers:
