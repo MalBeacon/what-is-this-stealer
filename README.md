@@ -342,7 +342,7 @@ Chrome Default - version: [version string]
 Edge Default - version: [version string]
 ```
 
-Blank Grabber (System Info.txt)
+## Blank Grabber (System Info.txt)
 
 ```
 Host Name:                 DESKTOP-1PQPCEA
