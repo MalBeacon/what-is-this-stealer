@@ -147,3 +147,148 @@ Unknown
 
 Save Time: 29.12.2024 23:51
 ```
+
+## Meduza (UserInfo.txt)
+
+```
+HWID: BF72890FDDFA11EEB512345E6F6E6963E11C7EE3
+Log Date: 03-12-2024, 23:45:57
+Build Name: Oxoxox
+Country Code: US
+User Name: John
+Computer Name: DESKTOP-5ABF2TC
+Operation System: Windows 10 Home
+Time Zone: [UTC-7:00] US Mountain Standard Time
+Screen Resolution: 1920x1080
+CPU: AMD Ryzen 5 3500 6-Core Processor              , 6 cores
+GPU: NVIDIA GeForce GTX 1650 SUPER
+RAM: 7.91499 GB
+IP: 127.0.0.1
+Execute Path: C:\Users\acegr\AppData\Local\Temp\9cb5ce.exe
+```
+
+## Lumma (System.txt)
+
+```
+- LummaC2 Build: Oct 21 2024
+- LID: 4SD0y4--MAGISTER
+- Configuration: 
+- Path: C:\Users\pc\AppData\Local\Temp\1F58.exe
+
+- OS Version: Windows 11 Pro (10.0.22631) x64
+- Local Date: 26.10.2024 19:00:18
+- Time Zone: UTC+4
+- Install Date: 23.02.2024 11:01:58
+- Elevated: false
+- Computer:DESKTOP-5ABF2TC
+- User: pc
+- Domain: 
+- Hostname: DESKTOP-5ABF2TC
+- NetBIOS: DESKTOP-5ABF2TC
+- Language: ar-AE
+- Anti Virus:
+	- Windows Defender
+- HWID: 2FC5E1B5B129FD4CDB71E32F12995CB3
+- RAM Size: 16384MB
+- CPU Vendor: GenuineIntel
+- CPU Name: 11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz
+- CPU Threads: 12
+- CPU Cores: 6
+- GPU: NVIDIA GeForce RTX 3050
+- Display resolution: 1920x1080
+
+- IP Address: 127.0.0.1
+- Time: 26.10.2024 18:00:17 (sig:1729954817.083b646b6e3d8a67dcccac7f0073444c)
+- Country: AE
+```
+
+## Atomic Mac (UserInformation.txt)
+
+```
+MetaMask Info:
+Seeds: 
+Private Keys: 
+Debanks: 
+
+
+Userinfo:
+Country: US
+IP: 47.160.126.208/284629518
+City: Irving
+ProductName:		macOS
+ProductVersion:		14.6
+BuildVersion:		23G5075b
+
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: Mac15,6
+      Model Number: MRX33LL/A
+      Chip: Apple M3 Pro
+      Total Number of Cores: 11 (5 performance and 6 efficiency)
+      Memory: 18 GB
+      System Firmware Version: 10151.140.19
+      OS Loader Version: 10151.140.19
+      Serial Number (system): F5X2YRHCVQ
+      Hardware UUID: 10F94688-D5E6-54BC-9437-BE147FF22A0E
+      Provisioning UDID: 00006030-000819003628001C
+      Activation Lock Status: Enabled
+
+
+Graphics/Displays:
+
+    Apple M3 Pro:
+
+      Chipset Model: Apple M3 Pro
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 14
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+      Displays:
+        Color LCD:
+          Display Type: Built-in Liquid Retina XDR Display
+          Resolution: 3024 x 1964 Retina
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+
+```
+
+## RedLine (UserInformation.txt)
+
+```
+Build ID: TG
+IP: 127.0.0.1
+FileLocation: C:\Users\Soliman\AppData\Roaming\LqKC6wx1X7.exe
+UserName: John
+MachineName: DESKTOP-I5DF3AA
+Country: AE
+Zip Code: UNKNOWN
+Location: Dubai, Dubayy
+HWID: 122C51E4AF1735E9123E2A94C1AC26A0D
+Current Language: English (United States)
+ScreenSize: {Width=1536, Height=864}
+TimeZone: (UTC+04:00) Abu Dhabi, Muscat
+Operation System: Windows 10 Pro x64
+Log date: 7/4/2024 5:43:07 PM
+
+Available KeyboardLayouts: 
+English (United Kingdom)
+English (United States)
+Arabic (Egypt)
+
+
+Hardwares: 
+Name: Total of RAM, 8087.34 Mb or 8480190464 bytes
+Name: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz, 2 Cores
+Name: Intel(R) HD Graphics 520, 1073741824 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+```
