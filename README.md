@@ -443,3 +443,26 @@ Antivirus products:
 File Location:           C:\Users\Administrator\Desktop\Ruvyjam.exe
 Clipboard text:
 ```
+
+## RL Stealer (Information.txt)
+
+```
+ ==================================================
+ Operating system : Windows Server 2022 Datacenter (64 Bit)
+ PC user : EC2AMAZ-75HN4R3/Administrator
+ ClipBoard : text
+ Launch : C:\Users\Administrator\Pictures\rdp_stealer.exe
+ ==================================================
+ Screen resolution : 600x1256
+ Current time : 5/22/2023 5:28:14 PM
+ HWID : 178BFBFF000406F1
+ ==================================================
+ CPU : Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz
+ RAM : 16382MB
+ GPU : Microsoft Basic Display Adapter
+ ==================================================
+ IP Geolocation : 127.0.0.1 [India]
+ Log Date : 05/22/2023 5:28
+ BSSID : 0a:02:14:dc:54:1e
+ ==================================================
+```
