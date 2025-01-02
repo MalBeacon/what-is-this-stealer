@@ -565,3 +565,15 @@ Installed Apps:
 
 -------------
 ```
+
+Skalka (UserInformation.txt)
+
+```
+Operation System: win10-amd64
+Current JarFile Path: C:/Users/WDAGUtilityAccount/AppData/Local/Temp/svchost.jar
+UserName: WDAGUtilityAccount
+IP: 95.135.28.223
+TimeZone: 2024-09-29T02:31:56.696+03:00 [Europe/Moscow]
+Width: 1076.0, Height: 533.0
+Language & Country: ru_RU
+``
