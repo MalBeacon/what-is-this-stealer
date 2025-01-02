@@ -566,6 +566,51 @@ Installed Apps:
 -------------
 ```
 
+## Raccoon (System Info.txt)
+
+```
+User ID: 9d592aaf-038b-4374-81e3-1b4b3f879370|Grzesiek
+Last seen: Thu Oct 10 2024 17:21:27 GMT+0200 (Central European Summer Time)
+Build: 66a7f4...98fb46
+IP info: PL 31.60.52.174
+System Information: 
+    - Locale: Polish
+    - Time zone: +60 minutes from GMT
+    - OS: Windows 10 Home
+    - Architecture: x64
+    - CPU:         Intel(R) Core(TM) i5-3550 CPU @ 3.30GH (4 cores)
+    - RAM: 8159 MB
+    - Display size: 1680x1050
+    - Display Devices:
+        0) Radeon RX 570 Series
+Installed applications:
+    AMD Software 22.4.2
+    WinRAR 6.24 (64-bitowy) 6.24.0
+    AMD DVR64 1.0.2
+    ScpToolkit 1.7.277.16103
+    Branding64 1.00.0009
+    Malwarebytes version 5.1.2.109 
+    UE4 Prerequisites (x64) 1.0.11.0
+    Revo Uninstaller Pro 5.2.6 
+    AMD Settings 2022.0420.0248.5055
+    AMD WVR64 1.0.2
+    EVERSPACE™ 2 1.2.40068 Incursions Hotfix #2
+    DOOM Eternal 
+    Google Chrome 129.0.6668.90
+    HD Tune Pro 5.75 
+    Internet Download Manager 6.42.3
+    K-Lite Codec Pack 18.2.0 Full 
+    Microsoft Edge 92.0.902.67
+    Microsoft Edge Update 1.3.195.25
+    Splash 2.7.0
+    OpenAL 
+    PLAY INTERNET 23.015.11.00.264
+    Steam 2.10.91.91
+    UE4 Prerequisites (x64) 1.0.13.0
+    Need For Speed Payback Deluxe Edition MULTi10 - ElAmigos wersja 1.0.51.15364 
+    CheckDrive 2025 6.02
+```
+
 ## Skalka (UserInformation.txt)
 
 ```
@@ -634,3 +679,43 @@ Language & Country: ru_RU
  svchost
 
 ```
+
+## RisePro (information.txt)
+
+```
+Build: default
+Version: 2.0
+Date: Sat Jul 06 3:43:57 2024
+MachineID: [redacted]
+GUID: {553e7197-[redacted]}
+HWID: [redacted]
+Path: C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe
+Work Dir: C:\Users\hp\AppData\Local\Temp\trixyqMFkDNPSFQYy
+IP: 127.0.0.1
+Location: EG, Cairo
+ZIP (Autofills): -
+Windows: Windows 10 Pro [x64]
+Computer Name: DESKTOP-DW129SN [WORKGROUP]
+User Name: hp
+Display Resolution: 1920x1200
+Display Language: en-US
+Keyboard Languages: English (United States) / Arabic (Egypt)
+Local Time: 6/7/2024 3:43:57
+TimeZone: UTC2
+[Hardware]
+Processor: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+CPU Count: 8
+RAM: 16090 MB
+VideoCard #0: Intel(R) HD Graphics 4600
+[Processes]
+System [4]
+Registry [124]
+smss.exe [548]
+csrss.exe [660]
+wininit.exe [752]
+csrss.exe [772]
+winlogon.exe [824]
+services.exe [892]
+```
+
+## 
