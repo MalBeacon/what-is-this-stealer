@@ -718,4 +718,20 @@ winlogon.exe [824]
 services.exe [892]
 ```
 
-## 
+## CryptBot (_Information.txt)
+
+```
+OS:                      Windows 10 Pro [ 64-bit ] 
+Local Date and Time:     2024-12-29 05:37:17 [ UTC: (UTC-08:00) Pacific Time (US & Canada) ] 
+UserName (ComputerName): Bruno (DESKTOP-ET51AJO)
+CPU:                     Intel(R) Core(TM)CPU @ 2.80GHz [ Сores: 4 ] 
+RAM:                     16 Gb
+GPU:                     Microsoft Basic Display Adapter
+Display Resolution:      1400 x 1050
+
+Software:
+Microsoft OneDrive [ 19.043.0304.0013 ]
+Python 3.10.11 (32-bit) [ 3.10.11150.0 ]
+7-Zip 23.01 (x64) [ 23.01 ]
+Mozilla Firefox (x64 en-US) [ 123.0.1 ]
+```
