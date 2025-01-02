@@ -466,3 +466,29 @@ Clipboard text:
  BSSID : 0a:02:14:dc:54:1e
  ==================================================
 ```
+
+## Noxty (identification.txt)
+
+```
+            User: 123716
+            Operating System: Microsoft Windows 10 Pro   10.0.17134
+            Process Executable Path: C:\Users\george\AppData\Local\Temp\2qkzd95dyyUVXJUyxyDQepb1uAe\SecurityHealthService.exe
+
+            Uptime: 1 hours, 12 minutes, 35 seconds
+            CPU: Intel   Celeron® G6900, Intel Celeron G6900   2.59 GHz
+            RAM: 8 GB
+            GPU: 2YYYT  (1024 MB)
+            ScreenResolution: 1024x768
+            Serial Number: 00330-80000-00000-AA154
+
+            Disk Devices: C:   208.15 GB
+
+            IP: 34.17.55.59
+            Country: Italy
+            City: Turin
+            Region: Piedmont
+            ISP: GOOGLE-CLOUD-PLATFORM
+            Latitude: 45.0705
+            Longitude: 7.6868
+            Timezone: Europe/Rome
+```
