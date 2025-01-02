@@ -523,7 +523,7 @@ Windows Processes [
 ]
 ```
 
-Raccoon (System Info.txt)
+## Raccoon (System Info.txt)
 
 ```
 Build compile date: Sat Feb 27 21:25:06 2021
@@ -566,7 +566,7 @@ Installed Apps:
 -------------
 ```
 
-Skalka (UserInformation.txt)
+## Skalka (UserInformation.txt)
 
 ```
 Operation System: win10-amd64
@@ -578,7 +578,7 @@ Width: 1076.0, Height: 533.0
 Language & Country: ru_RU
 ```
 
-Astris (Information.txt)
+## Astris (Information.txt)
 
 ```
 [General]
