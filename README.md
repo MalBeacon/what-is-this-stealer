@@ -492,3 +492,33 @@ Clipboard text:
             Longitude: 7.6868
             Timezone: Europe/Rome
 ```
+
+## XFiles (Information.txt)
+
+```
+Operation ID: 3a0e18ea-e2d2-d347-981f-8d27f710ba3e3a167754-3fe3-716f-ebda-f87f6aac5410
+
+IP: 40.40.186.60
+Country: US (United States)
+Operating System: Windows 10
+Username: Stanton
+Computer Name: DESKTOP-T43JEK2
+Hardware ID: 5E30421F690DE01B6E6014007152B83109C02F65
+CPU (Processor): Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz
+GPU (Display Devices): Intel(R) HD Graphics 4600
+RAM (Memory): 
+Screens: 1920x1080
+Desktop Screenshot Taken: Yes
+
+Windows Processes [
+   System
+   Registry
+   RuntimeBroker.exe
+   ArchiveUninstall_up_dbg.exe
+   CalculatorApp.exe
+   RuntimeBroker.exe
+   svchost.exe
+   elevation_service.exe
+   svchost.exe
+]
+```
