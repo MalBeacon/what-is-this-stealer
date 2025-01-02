@@ -522,3 +522,46 @@ Windows Processes [
    svchost.exe
 ]
 ```
+
+Raccoon (System Info.txt)
+
+```
+Build compile date: Sat Feb 27 21:25:06 2021
+Launched at: 2021.03.03 - 09:59:08 GMT
+Bot_ID: 2B535503-847D-4780-BFA1-18DFAF0D764D_Mario
+Running on a laptop
+
+-------------
+
+  - Cookies: 1292
+  - Passwords: 104
+  - Files: 0
+
+System Information:
+  - System Language: Polish
+  - System TimeZone: +1 hrs
+  - IP: 80.238.108.168
+  - Location: 52.273998, 21.083700 | Warsaw, Mazovia, Poland (03-890)
+  - ComputerName: MARIO-KOMPUTER
+  - Username: Mario
+  - Windows version: NT 6.1
+  - Product name: Windows 7 Home Premium
+  - System arch: x32
+  - CPU: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz (4 cores)
+  - RAM: 3055 MB (1554 MB used)
+  - Screen resolution: 1366x768
+  - Display devices:
+	0) Intel(R) HD Graphics 5500
+
+-------------
+
+Installed Apps: 
+	7-Zip 19.00 (19.00)
+	Adobe Acrobat Reader DC - Polish (19.010.20098)
+	Adobe Refresh Manager (1.8.0)
+	Adobe SVG Viewer 3.0 ( 3.0)
+	Advanced SystemCare (14.1.0)
+	WinRAR 6.00 (32-bit) (6.00.0)
+
+-------------
+```
