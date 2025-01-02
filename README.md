@@ -576,4 +576,61 @@ IP: 95.135.28.223
 TimeZone: 2024-09-29T02:31:56.696+03:00 [Europe/Moscow]
 Width: 1076.0, Height: 533.0
 Language & Country: ru_RU
-``
+```
+
+Astris (Information.txt)
+
+```
+[General]
+ Build: recaptcha-verify (1.0.0)
+ HWID: 0A256AD07967582CD5A08537A6C57941
+ Date: 10/18/2024 1:51:06 PM
+
+[Machine]
+ Computer Name: DESKTOP-ET51AJO
+ User Name: Bruno
+ System: Windows 10 Pro [x64]
+ Resolution: 1400x1050
+ Antiviruses: Windows Defender
+ Product Key: W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+[Geolocation]
+ Country: United States (US)
+ Location: Council Bluffs, Iowa
+ Zip Code: 
+
+[Network]
+ Public IP Address: 34.46.22.199
+ Private IP Address: 172.16.1.3
+ Internet Provider: Google LLC
+
+[Miscellaneous]
+ Timezone: (UTC-08:00) Pacific Time (US & Canada)
+ Display Language: en-US
+ Ran as Admin: True
+ Keyboard Layouts:
+  - English (United States)
+  - Korean (Korea)
+  - Russian (Russia)
+  - Persian (Iran)
+  - Chinese (Simplified, China)
+
+[Hardware]
+ CPU: Intel(R) Xeon(R) CPU @ 2.80GHz
+ GPU: Microsoft Basic Display Adapter
+ RAM: 4.1 GB
+
+[Software]
+ Python 3.10.11 Core Interpreter (32-bit) [3.10.11150.0]
+ Python 3.10.11 Tcl/Tk Support (32-bit) [3.10.11150.0]
+ Python 3.10.11 Standard Library (32-bit) [3.10.11150.0]
+ Microsoft DCF MUI (English) 2016 [16.0.4266.1001]
+
+[Processes]
+ msiexec
+ svchost
+ updater
+ conhost
+ svchost
+
+```
