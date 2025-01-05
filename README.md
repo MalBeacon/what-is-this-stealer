@@ -1,6 +1,6 @@
 ![What is this stealer](logo.png)
 
-# What is this Stealer
+# What is this Stealer [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=What%20is%20this%20Stealer%20-%20A%20repository%20of%20credential%20stealer%20formats%20for%20system%20information%20by%20@MalBeacon&url=https://github.com/MalBeacon/what-is-this-stealer&hashtags=threatintel,infosec)
 **A repository of credential stealer formats for system information (e.g information.txt, system_info.txt etc...)**
 
 Your [contributions](contributing.md) are always welcome !
