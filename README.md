@@ -1,3 +1,5 @@
+![What is this stealer](logo.png)
+
 # What is this Stealer
 **A repository of credential stealer formats for system information (e.g information.txt, system_info.txt etc...)**
 
