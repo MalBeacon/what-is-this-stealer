@@ -13,6 +13,7 @@ This resource was made by the developers and hackers alike! We appreciate and re
 ## Adding to the List
 
 - Please add the content to the `README.md` file in alphabetical order.
+- Add a yara rule for the family, please match formatting of other yara rules.
 - Ensure that the family name is the most commonly used amongst researchers.
 - Ensure all indentations and formatting match the exact format of the file.
 - Remove identifying information and large lists of information that do not provide value.
