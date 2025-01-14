@@ -709,6 +709,60 @@ Width: 1076.0, Height: 533.0
 Language & Country: ru_RU
 ```
 
+## Vidar (information.txt)
+
+```
+Ip: [redacted]
+Country: [redacted]
+Version: 12
+
+Date: [redacted]
+MachineID: [redacted]
+GUID: [redacted]
+HWID: [redacted]
+
+Path: [redacted]
+Work Dir: In memory
+
+Windows: Windows 10 Pro
+Install Date: Disabled
+AV: Disabled
+Computer Name: [redacted]
+User Name: [redacted]
+Display Resolution: 1920x1080
+Keyboard Languages: English (United States) / Spanish (Panama)
+Local Time: [redacted]
+TimeZone: -5
+
+[Hardware]
+Processor: AMD Phenom(tm) II X6 1090T Processor
+Cores: 6
+Threads: 6
+RAM: 8190 MB
+VideoCard: NVIDIA GeForce 9600 GSO
+
+[Processes]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+services.exe
+lsass.exe
+svchost.exe
+fontdrvhost.exe
+svchost.exe
+
+[Software]
+Printer Registration - 1.9.1
+Canon IJ Printer Assistant Tool - 1.60.1.15
+Canon Inkjet Printer/Scanner/Fax Extended Survey Program - 6.5.2
+Canon IJ Scan Utility - 1.6.1.2
+Microsoft Office Enterprise 2007 - 12.0.6612.1000
+Google Chrome - 131.0.6778.109
+NETGEAR WNDA4100 - 1.2.0.2
+```
+
 ## XFiles (Information.txt)
 
 ```
