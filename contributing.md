@@ -25,3 +25,4 @@ This resource was made by the developers and hackers alike! We appreciate and re
 
 ## Contributors
 
+[RussianPanda](https://x.com/russianpanda9xx)
