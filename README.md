@@ -371,6 +371,31 @@ Credit Cards: ❌
 - Country: AE
 ```
 
+## Lumma (System.txt)
+
+```
+LummaC2, Build: Dec 29 2023
+LID (Lumma ID): 4SD0y4--MAGISTER
+
+- PC: DESKTOP-5ABF2TC
+- User: pc
+- Domain:
+- Hostname: DESKTOP-5ABF2TC
+- NetBIOS: DESKTOP-5ABF2TC
+- OS Version: Windows 11 Pro (10.0.22631) x64
+- Language: ar-AE
+- HWID: 2FC5E1B5B129FD4CDB71E32F12995CB3
+- CPU Vendor: GenuineIntel
+- CPU Name: 11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz
+- GPU: NVIDIA GeForce RTX 3050
+- RAM Size: 16384MB
+- Screen resolution: 1920x1080
+
+
+- IP Address: 127.0.0.1
+- Country: AE
+```
+
 ## Meduza (UserInfo.txt)
 
 ```
