@@ -1,4 +1,4 @@
-rule Lumma
+rule Lumma2
 {
     meta:
         author = "fabamatic"
