@@ -295,6 +295,70 @@ Unknown
 Save Time: 29.12.2024 23:51
 ```
 
+## ExelaStealer (system_info.txt)
+
+```
+----------------------https://t.me/ExelaStealer----------------------
+======================================================================
+System Info
+Host Name: DESKTOP-AS11AQO
+OS Name: Microsoft Windows 10 Pro
+OS Version: 10.0.19044 N/A Build 19044
+OS Manufacturer: Microsoft Corporation
+OS Configuration: Standalone Workstation
+OS Build Type: Multiprocessor Free
+Registered Owner: Bruno
+Registered Organization:
+Product ID: 69993-333-1113377-81456
+Original Install Date: 2/14/2024, 4:38:00 PM
+System Boot Time: 1/20/2025, 10:34:54 PM
+System Manufacturer: QEMU
+System Model: Standard PC (Q35 + ICH9, 2009)
+System Type: x64-based PC
+Processor(s): 1 Processor(s) Installed.
+[01]: Intel64 Family 6 Model 85 Stepping 7 GenuineIntel
+2800 Mhz
+BIOS Version: SeaBIOS rel-1.16.3-4-g163fd9f0-dirty-20240307_191320-cape-base, 11/3/2018
+Windows Directory: C:\Windows
+System Directory: C:\Windows\system32
+Boot Device: \Device\HarddiskVolume1
+System Locale: en-us
+English (United States)
+Input Locale: en-us
+Time Zone: (UTC-08:00) Pacific Time (US
+Canada)
+Total Physical Memory: 4,195 MB
+Available Physical Memory: 2,784 MB
+Virtual Memory: Max Size: 5,667 MB
+Virtual Memory: Available: 4,226 MB
+Virtual Memory: In Use: 1,441 MB
+Page File Location(s): C:\pagefile.sys
+Domain: WORKGROUP
+Logon Server: \\DESKTOP-ET51AJO
+Hotfix(s): 4 Hotfix(s) Installed.
+[01]: KB5004331
+[02]: KB5003791
+[03]: KB5006670
+[04]: KB5005699
+Network Card(s): 1 NIC(s) Installed.
+[01]: Intel(R) 82574L Gigabit Network Connection
+Connection Name: Ethernet
+DHCP Enabled: Yes
+DHCP Server: 172.16.1.1
+IP address(es)
+[01]: 172.16.1.9
+[02]: fe80::a417:94a2:feb0:d959
+Hyper-V Requirements: VM Monitor Mode Extensions: Yes
+Virtualization Enabled In Firmware: Yes
+Second Level Address Translation: Yes
+Data Execution Prevention Available: Yes
+System Version
+Microsoft Windows [Version 10.0.19044.1288]
+Host Name
+DESKTOP-ET51AJO
+Environment Variable
+```
+
 ## LucaStealer (user_info.txt)
 
 ```
@@ -480,6 +544,117 @@ Files:                   0
 Antivirus products:      
 File Location:           C:\Users\Administrator\Desktop\Ruvyjam.exe
 Clipboard text:
+```
+
+## PredatorTheThief v3 (Information.txt)
+
+```
+Predator The Thief : v3.0.0 Release
+-----------------------------
+Developed by Alexuiop1337
+Buy Predator at t.me/sett9
+Launch time: Mon Jan 13 04:21:34 2025
+Passwords: 0
+Cookies: 33
+Forms: 4
+Cards: 0
+Wallets: -
+Steam: -
+Telegram: -
+FileZilla: -
+WinFtp: -
+Discord: -
+User name: Bruno
+Machine name: DESKTOP-AV33AV3
+OS version: Windows 10 Enterprise x64
+Current clipboard:
+--------------
+Startup folder: C:\Users\Bruno\Desktop\0c9f1d66b2df544606f1d8702f7f9203e57622ffa50bea560ef09e89.exe
+CPU info: Intel(R) Xeon(R) CPU @ 2.80GHz
+Amount of kernels: 4 (Current CPU usage: -300.982300%)
+GPU info: Microsoft Basic Display Adapter
+Amount of RAM: 17 GB (Current RAM usage: 13258 MB)
+Screen resolution: 1400x1050
+Computer users:
+All Users
+Default
+Default User
+Public
+Installed applications:
+1) chrome_Unpacker_BeginUnzipping3972_1937685919
+2) chrome_url_fetcher_3656_13444481
+3) chrome_url_fetcher_3656_400969800
+4) chrome_url_fetcher_3868_657230266
+5) chrome_url_fetcher_3924_294671405
+6) chrome_url_fetcher_3928_702586853
+7) chrome_url_fetcher_3932_1691910331
+8) chrome_url_fetcher_3972_1047990607
+9) chrome_url_fetcher_3980_666298528
+10) chrome_url_fetcher_3988_1139822304
+11) chrome_url_fetcher_4016_181583384
+12) chrome_url_fetcher_4016_1852935941
+13) chrome_url_fetcher_4032_1421355394
+14) chrome_url_fetcher_4056_1736669238
+15) chrome_url_fetcher_808_48764292
+16) Common Files
+17) Google
+18) Hnc
+19) Internet Explorer
+20) Microsoft
+21) Microsoft Analysis Services
+22) Microsoft Office
+23) Microsoft SQL Server
+24) Microsoft.NET
+25) Mozilla Maintenance Service
+26) MSBuild
+27) Reference Assemblies
+28) Windows Defender
+29) Windows Mail
+30) Windows Media Player
+31) Windows Multimedia Platform
+32) Windows NT
+33) Windows Photo Viewer
+34) Windows Portable Devices
+35) Windows Sidebar
+36) WindowsPowerShell
+37) chrome_Unpacker_BeginUnzipping3972_1937685919
+38) chrome_url_fetcher_3656_13444481
+39) chrome_url_fetcher_3656_400969800
+40) chrome_url_fetcher_3868_657230266
+41) chrome_url_fetcher_3924_294671405
+42) chrome_url_fetcher_3928_702586853
+43) chrome_url_fetcher_3932_1691910331
+44) chrome_url_fetcher_3972_1047990607
+45) chrome_url_fetcher_3980_666298528
+46) chrome_url_fetcher_3988_1139822304
+47) chrome_url_fetcher_4016_181583384
+48) chrome_url_fetcher_4016_1852935941
+49) chrome_url_fetcher_4032_1421355394
+50) chrome_url_fetcher_4056_1736669238
+51) chrome_url_fetcher_808_48764292
+52) Common Files
+53) Google
+54) Hnc
+55) Internet Explorer
+56) Microsoft
+57) Microsoft Analysis Services
+58) Microsoft Office
+59) Microsoft SQL Server
+60) Microsoft.NET
+61) Mozilla Maintenance Service
+62) MSBuild
+63) Reference Assemblies
+64) Windows Defender
+65) Windows Mail
+66) Windows Media Player
+67) Windows Multimedia Platform
+68) Windows NT
+69) Windows Photo Viewer
+70) Windows Portable Devices
+71) Windows Sidebar
+72) WindowsPowerShell
+Compile time: Oct 13 2018
+Grabbing time: 13.285341 second(s)
 ```
 
 ## Raccoon (System Info.txt)
@@ -816,4 +991,100 @@ Windows Processes [
    elevation_service.exe
    svchost.exe
 ]
+```
+
+---
+
+## TO BE IDENTIFIED
+
+SHA256: 2eb234f7c3bf7247675428b539e9b9dfa20b4c0f11d528e1526f57e9a328cd0f
+```
+Username: Thomas
+Computer name: DESKTOP-AS11AV3
+OS: Windows 10.0.19044 (Workstation)
+Language: ["en-US"]
+Hostname: desktop-as11av3
+IP: 81.52.44.111
+Country: United States
+City: North Charleston
+Timezone:America/New_York
+Cordinates:11.8771 - -31.013"Intel(R) Xeon(R) CPU @ 2.80GHz"
+Microsoft Basic Display Adapter : 0 bytes : 1400 x 1050 x 4294967296 colors
+```
+
+SHA256: 2aeb4ffb5ea6fa0f4f04a0f92184012ff67590ad391e88675c009479b476667f
+```
+Environment INFO
+-----------------------------
+DESKTOP-AV33AV4
+Microsoft Windows NT 6.2.9200.0
+IP INFO
+"ip": "11.22.111.32",
+"hostname": "32.111.22.11.bc.googleusercontent.com",
+"city": "The Dalles",
+"region": "Oregon",
+"country": "US",
+"loc": "11.5946,-187.1787",
+"org": "AS396982 Google LLC",
+"postal": "97058",
+"timezone": "America/Los_Angeles",
+"readme": "https://ipinfo.io/missingauth"
+GPU INFO
+Microsoft Basic Display Adapter,
+Running Tasks
+unsecapp
+svchost
+RuntimeBroker
+sysmon
+conhost
+WmiPrvSE
+SppExtComObj
+explorer
+wininit
+ChsIME
+updater
+sihost
+sppsvc
+vt-windows-event-stream
+Registry
+services
+StartMenuExperienceHost
+131.0.6778.265_131.0.6778.140_chrome_updater
+fontdrvhost
+forfuntest
+ctfmon
+winlogon
+MoUsoCoreWorker
+taskhostw
+dllhost
+pythonw
+System
+TrustedInstaller
+TiWorker
+IPCONFIG
+Windows IP Configuration
+Host Name . . . . . . . . . . . . : DESKTOP-AV33AV4
+Primary Dns Suffix . . . . . . . :
+Node Type . . . . . . . . . . . . : Hybrid
+IP Routing Enabled. . . . . . . . : No
+WINS Proxy Enabled. . . . . . . . : No
+DNS Suffix Search List. . . . . . : hostonly
+Ethernet adapter Ethernet:
+Connection-specific DNS Suffix . : hostonly
+Description . . . . . . . . . . . : Intel(R) 82574L Gigabit Network Connection
+Physical Address. . . . . . . . . : 24-47-F2-1D-D1-C1
+DHCP Enabled. . . . . . . . . . . : Yes
+Autoconfiguration Enabled . . . . : Yes
+Link-local IPv6 Address . . . . . : fe80::3853:12f5:ed03:1353%10(Preferred)
+IPv4 Address. . . . . . . . . . . : 172.16.1.4(Preferred)
+Subnet Mask . . . . . . . . . . . : 255.255.255.0
+Lease Obtained. . . . . . . . . . : Thursday, December 19, 2024 11:07:43 AM
+Lease Expires . . . . . . . . . . : Thursday, January 16, 2025 2:18:45 AM
+Default Gateway . . . . . . . . . : 172.16.1.1
+DHCP Server . . . . . . . . . . . : 172.16.1.1
+DHCPv6 IAID . . . . . . . . . . . : 106068123
+DHCPv6 Client DUID. . . . . . . . : 00-03-00-01-3E-E6-16-EF-24-97-A6-3D-D5-C5
+DNS Servers . . . . . . . . . . . : 172.16.1.1
+Primary WINS Server . . . . . . . : 172.16.1.1
+NetBIOS over Tcpip. . . . . . . . : Enabled
 ```
