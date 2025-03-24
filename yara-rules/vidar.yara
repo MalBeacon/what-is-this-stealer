@@ -4,13 +4,17 @@ rule Vidar
         author = "RussianPanda"
         description = "Detects Vidar Stealer"
         reference = "https://malpedia.caad.fkie.fraunhofer.de/details/win.vidar"
+        modified = "2025-03-21"
+        modifier = "Davide Ciacciolo"
     
     strings:
-        $x1 = "Work Dir: In memory" ascii
-        $x2 = "information.txt" ascii
-        $x3 = "Soft\\Steam\\steam_tokens.txt" ascii
-        $x4 = "N0ZWFt" ascii
+        $x1 = "Country: " ascii
+        $x2 = "MachineID: " ascii
+        $x3 = "Work Dir: " ascii
+        $x4 = "[Hardware]" ascii
+        $x5 = "[Processes]" ascii
+        $x6 = "[Software]" ascii
     
     condition:
-        uint16(0) == 0x5A4D and all of them
+        all of them
 }
