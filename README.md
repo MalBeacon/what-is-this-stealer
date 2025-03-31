@@ -460,6 +460,30 @@ LID (Lumma ID): 4SD0y4--MAGISTER
 - Country: AE
 ```
 
+## Lumma (System.txt)
+
+```
+LummaC2, Build 20232406
+LID(Lumma ID): KjGtqi--ZUBA
+
+- PC: USER-PC
+- User: User
+- Domain: 
+- Workgroup: USER-PC
+- ComputerNameDnsHostname: USER-PC
+- ComputerNameNetBIOS: USER-PC
+- OS Version: Windows 7 (6.1.0)
+- HWID: 3F9A1C4E7B2D8F065A9E3B7C4D1F8A2E3B9C7D6F
+- Screen Resoluton: 1366x768
+- Language: en-US
+- CPU Name: Intel(R) Core(TM)2 Duo CPU     P7450  @ 2.13GHz
+- GPU: NVIDIA GeForce GT 240M
+- Physical Installed Memory: 6144MB
+
+- IP Address: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+- Country: US
+```
+
 ## Meduza (UserInfo.txt)
 
 ```
