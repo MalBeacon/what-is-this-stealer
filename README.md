@@ -779,6 +779,29 @@ Anti-Viruses:
 Windows Defender
 ```
 
+## Rhadamanthys (system.txt)
+```
+Install Date: 09 Dec 23 00:33 UTC
+Traffic Name: 001FT-35
+HWID: [redacted]
+IP: 127.0.0.1
+Country: CA
+Time Zone: UTC-5
+System Language: Japanese
+User Language: English
+Keyboard Language: English
+Processor: Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz
+Installed RAM: 32658 MB
+OS: Windows 10 build 19045 (64 Bit)
+Video card: NVIDIA GeForce RTX 3080
+Display Resolution: 2560x1440
+Computer Name: [redacted]
+User Name: [redacted]
+Domain Name: DOMAIN
+MachineID: [redacted]
+WallPaper Hash: [40 char string]
+```
+
 ## RisePro (information.txt)
 
 ```
